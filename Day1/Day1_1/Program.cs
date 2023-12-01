@@ -1,11 +1,11 @@
-﻿namespace Day1
+﻿namespace Day1_1
 {
     class Program
     {
         // I'm literally just starting out .NET and C# for the first time
         static void Main(string[] args)
         {
-            var lines = File.ReadLines("input");
+            var lines = File.ReadLines("../input");
 
             int total = 0;
 
